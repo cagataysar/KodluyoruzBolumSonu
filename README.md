@@ -1,2 +1,2 @@
 # KodluyoruzBolumSonu
-Kodluyoruz Front-End Eğitiminde yaptığım bölüm sonu çalışması.
+Kodluyoruz Front-End eğitiminde yaptığım bölüm sonu çalışması.
